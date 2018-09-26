@@ -18,7 +18,8 @@ Three example frames, where D represents the player controlled ship and S repres
 \__/  \__/  \__/  \__/  \
 ```
 
-```  D
+```  
+     D
     _S    _S    __    __
 \__/  \__/  \__/  \__/  \
 ```
