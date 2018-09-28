@@ -1,5 +1,5 @@
 # Flying Dutchman
-Flying Dutchman is an infinite sail game built using HTML5 with canvas and JavaScript.  It is similar to the dinosaur game in chrome.
+Flying Dutchman is an infinite sail game built using HTML5 with canvas and JavaScript.  The goal of the game is to sail the seas forever.
 
 ## Instructions
 As the captain of the Flying Dutchman, you have been tasked with collecting the souls of those lost at sea.  Jump over the ghosts by pressing the space key to collect souls!
