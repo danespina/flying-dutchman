@@ -1,5 +1,5 @@
 # flying-dutchman
-Flying Dutchman is a jumping game similar to the dinosaur game in chrome.  The player will control the Flying Dutchman and jump over shipwrecks to collect the souls.
+Flying Dutchman is a browser-based jumping game built using HTML5 with canvas and JavaScript.  It is similar to the dinosaur game in chrome.  The player will control the Flying Dutchman and jump over shipwrecks to collect the souls.
 ## MVP List:
 + Player controlled jumping ship
 + Shipwrecks moving toward the player to be jumped
