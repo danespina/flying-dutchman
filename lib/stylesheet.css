@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'BlackPearl';
+  src: url('../assets/BlackPearl.ttf');
+}
+
+body {
+  display: flex;
+  background-color: #999;
+  color: #010106;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: BlackPearl;
+  font-size: 72px;
+}
+
+.contact-info {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  list-style: none;
+  font-size: 40px;
+}
+
+.game {
+  display: flex;
+}
+
+.game a {
+  color: #010106;
+  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-style: none;
+}
+
+.game a:hover {
+  color: #fafafa;
+}
