@@ -13,11 +13,17 @@ main {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
+  width: 900px;
 }
 
 h1 {
   font-family: BlackPearl;
   font-size: 72px;
+}
+
+h3 {
+  font-family: BlackPearl;
+  font-size: 32px;
 }
 
 .contact-info {
@@ -42,4 +48,10 @@ h1 {
 
 .game a:hover {
   color: #fafafa;
+}
+
+.contact-info {
+  position: absolute;
+  left: 420px;
+  top: 60px;
 }
