@@ -7,6 +7,7 @@ body {
   display: flex;
   background-color: #999;
   color: #010106;
+  flex-direction: column;
 }
 
 main {
@@ -29,7 +30,7 @@ h3 {
 .contact-info {
   padding: 40px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-end;
   list-style: none;
   font-size: 40px;
@@ -39,19 +40,31 @@ h3 {
   display: flex;
 }
 
-.game a {
+a {
   color: #010106;
   text-decoration: none;
   text-decoration-line: none;
   text-decoration-style: none;
 }
 
-.game a:hover {
+a:hover {
   color: #fafafa;
 }
 
-.contact-info {
+.contact-info li {
+  padding: 20px;
+}
+
+footer {
+  margin: 0 auto;
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+/* .contact-info {
   position: absolute;
   left: 420px;
   top: 60px;
-}
+} */
