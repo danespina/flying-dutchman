@@ -20,11 +20,13 @@ main {
 h1 {
   font-family: BlackPearl;
   font-size: 72px;
+  padding: 30px;
 }
 
 h3 {
   font-family: BlackPearl;
   font-size: 32px;
+  padding: 20px;
 }
 
 .contact-info {
@@ -38,6 +40,7 @@ h3 {
 
 .game {
   display: flex;
+  padding: 20px;
 }
 
 a {
